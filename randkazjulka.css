@@ -102,7 +102,7 @@ section{
 
 @media screen and (max-width:1000px){
     .ankieta{
-        transform: scale(.8);
+        transform: scale(.8), translateY(50%);
         height:80%;
     }
     .ankieta .next{
