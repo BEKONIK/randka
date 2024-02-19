@@ -100,9 +100,8 @@ section{
 
 @media screen and (max-width:1000px){
     .ankieta{
-        transform: scale(.9) translateY(100px);
+        transform: scale(.9);
         width:98%;
-        height:700px;
     }
     .ankieta .next{
         margin-top:70px;
