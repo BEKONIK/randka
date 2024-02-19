@@ -99,9 +99,9 @@ section{
 
 @media screen and (max-width:1000px){
     .ankieta{
-        transform: scale(.9);
-        bottom:2%;
+        transform: scale(.9) translateY(50px);
         height:80%;
+        width:98%;
     }
     .ankieta .next{
         margin-top:70px;
