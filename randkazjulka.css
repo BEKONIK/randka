@@ -43,9 +43,10 @@ section{
     border:3px solid black;
     border-radius:5px;
     width:90%;
-    min-height:65%;
-    position:absolute;
-    bottom:10%;
+    height:450px;
+    transform:translateY(60px);
+/*     position:absolute; */
+/*     bottom:10%; */
     color:white;
     display: flex;
     justify-content: center;
@@ -99,9 +100,9 @@ section{
 
 @media screen and (max-width:1000px){
     .ankieta{
-        transform: scale(.9) translateY(50px);
-        height:80%;
+        transform: scale(.9) translateY(100px);
         width:98%;
+        height:700px;
     }
     .ankieta .next{
         margin-top:70px;
