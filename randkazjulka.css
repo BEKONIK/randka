@@ -102,6 +102,7 @@ section{
     .ankieta{
         transform: scale(.9);
         width:98%;
+        height:400px;
     }
     .center{
         height:95%;
