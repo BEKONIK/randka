@@ -58,7 +58,7 @@ section{
     font-size:1.4em;
     background: transparent;
     color:black;
-    width:70%;
+    width:100%;
 }
 .ankieta p::selection{
     background: transparent;
