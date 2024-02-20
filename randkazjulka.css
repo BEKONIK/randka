@@ -103,6 +103,9 @@ section{
         transform: scale(.9);
         width:98%;
     }
+    .center{
+        height:95%;
+    }    
     .ankieta .next{
         margin-top:70px;
     }
