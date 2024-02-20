@@ -44,9 +44,8 @@ section{
     border-radius:5px;
     width:90%;
     height:450px;
-    transform:translateY(60px);
-/*     position:absolute; */
-/*     bottom:10%; */
+    position:absolute;
+    bottom:50px;
     color:white;
     display: flex;
     justify-content: center;
@@ -102,6 +101,7 @@ section{
     .ankieta{
         transform: scale(.9);
         width:98%;
+        bottom:20px;
     }
     .center{
         height:95%;
